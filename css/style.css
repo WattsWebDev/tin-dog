@@ -190,7 +190,7 @@ nav.navbar-expand-lg.navbar-dark {
 
 /*media query section */
 
-@media only screen and  (max-width: 800px) {
+@media only screen and  (max-width: 600px) {
   .iphone-6 {
     position: static;
     transform: rotate(0);
